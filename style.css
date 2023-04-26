@@ -1,0 +1,72 @@
+
+
+
+
+
+
+
+
+body{
+    background-color: black;
+}
+
+.huge{
+    font-size: 10rem;
+    color: red;
+}
+
+
+span{
+    color: aliceblue;
+}
+
+.container{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+
+}
+
+
+
+
+.Dicee{
+   
+   margin: 30px;
+}
+
+p{
+    text-align: center;
+    color: aliceblue;
+
+}
+
+
+
+
+
+.spend{
+font-size: 5rem;
+color: aliceblue;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
